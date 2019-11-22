@@ -12,3 +12,8 @@ update:
 
 lint:
 	scripts/lint
+
+test:
+	scripts/test
+
+.PHONY: test
